@@ -76,6 +76,8 @@ namespace zadanietrzecie
     }
 }
 */
+
+/*
 namespace zadanieczwarte
 {
     class Program
@@ -103,9 +105,65 @@ namespace zadanieczwarte
                 Console.WriteLine(a / b);
 
 
-            Console.WriteLine(b);
             Console.ReadKey();
 
         }
     }
 }
+*/
+
+/*
+namespace zadanieczwarte
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            double a, b;
+            string znak;
+            Console.WriteLine("podaj liczbe a");
+            a = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine("podaj b");
+            b = Convert.ToDouble(Console.ReadLine());
+
+
+            Console.WriteLine("podaj znak operacji: ");
+            znak = Console.ReadLine();
+
+            
+          //  if (znak == "+")
+           //     Console.WriteLine(a + b);
+           // else if (znak == "-")
+           //     Console.WriteLine(a - b);
+           // else if (znak == "*")
+           //     Console.WriteLine(a * b);
+           // else if (znak == "/")
+           //     Console.WriteLine(a / b);
+          
+            switch (znak)
+            {
+                case "+":
+                    Console.WriteLine(a + b);
+                    break;
+                case "-":
+                    Console.WriteLine(a - b);
+                    break;
+                case "*":
+                    Console.WriteLine(a * b);
+                    break;
+                case "/":
+                        Console.WriteLine(a / b);
+                        break;
+
+                default:
+                    Console.WriteLine("nie rozpoznano znaku");
+                    break;
+                    
+            }
+
+            Console.ReadKey();
+
+        }
+    }
+}
+*/ 
