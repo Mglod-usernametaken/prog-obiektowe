@@ -1,0 +1,16 @@
+C:\Users\maste\prog-obiektowe\rozdział 3\bin\Debug\net6.0\rozdział 3.exe
+C:\Users\maste\prog-obiektowe\rozdział 3\bin\Debug\net6.0\rozdział 3.deps.json
+C:\Users\maste\prog-obiektowe\rozdział 3\bin\Debug\net6.0\rozdział 3.runtimeconfig.json
+C:\Users\maste\prog-obiektowe\rozdział 3\bin\Debug\net6.0\rozdział 3.dll
+C:\Users\maste\prog-obiektowe\rozdział 3\bin\Debug\net6.0\ref\rozdział 3.dll
+C:\Users\maste\prog-obiektowe\rozdział 3\bin\Debug\net6.0\rozdział 3.pdb
+C:\Users\maste\prog-obiektowe\rozdział 3\obj\Debug\net6.0\rozdział 3.GlobalUsings.g.cs
+C:\Users\maste\prog-obiektowe\rozdział 3\obj\Debug\net6.0\rozdział 3.csproj.AssemblyReference.cache
+C:\Users\maste\prog-obiektowe\rozdział 3\obj\Debug\net6.0\rozdział 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maste\prog-obiektowe\rozdział 3\obj\Debug\net6.0\rozdział 3.AssemblyInfoInputs.cache
+C:\Users\maste\prog-obiektowe\rozdział 3\obj\Debug\net6.0\rozdział 3.AssemblyInfo.cs
+C:\Users\maste\prog-obiektowe\rozdział 3\obj\Debug\net6.0\rozdział 3.csproj.CoreCompileInputs.cache
+C:\Users\maste\prog-obiektowe\rozdział 3\obj\Debug\net6.0\rozdział 3.dll
+C:\Users\maste\prog-obiektowe\rozdział 3\obj\Debug\net6.0\ref\rozdział 3.dll
+C:\Users\maste\prog-obiektowe\rozdział 3\obj\Debug\net6.0\rozdział 3.pdb
+C:\Users\maste\prog-obiektowe\rozdział 3\obj\Debug\net6.0\rozdział 3.genruntimeconfig.cache
