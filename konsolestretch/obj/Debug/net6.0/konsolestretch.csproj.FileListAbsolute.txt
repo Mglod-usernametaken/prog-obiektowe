@@ -1,0 +1,16 @@
+C:\Users\maste\prog-obiektowe\konsolestretch\obj\Debug\net6.0\konsolestretch.GlobalUsings.g.cs
+C:\Users\maste\prog-obiektowe\konsolestretch\obj\Debug\net6.0\konsolestretch.csproj.AssemblyReference.cache
+C:\Users\maste\prog-obiektowe\konsolestretch\obj\Debug\net6.0\konsolestretch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maste\prog-obiektowe\konsolestretch\obj\Debug\net6.0\konsolestretch.AssemblyInfoInputs.cache
+C:\Users\maste\prog-obiektowe\konsolestretch\obj\Debug\net6.0\konsolestretch.AssemblyInfo.cs
+C:\Users\maste\prog-obiektowe\konsolestretch\obj\Debug\net6.0\konsolestretch.csproj.CoreCompileInputs.cache
+C:\Users\maste\prog-obiektowe\konsolestretch\bin\Debug\net6.0\konsolestretch.exe
+C:\Users\maste\prog-obiektowe\konsolestretch\bin\Debug\net6.0\konsolestretch.deps.json
+C:\Users\maste\prog-obiektowe\konsolestretch\bin\Debug\net6.0\konsolestretch.runtimeconfig.json
+C:\Users\maste\prog-obiektowe\konsolestretch\bin\Debug\net6.0\konsolestretch.dll
+C:\Users\maste\prog-obiektowe\konsolestretch\bin\Debug\net6.0\ref\konsolestretch.dll
+C:\Users\maste\prog-obiektowe\konsolestretch\bin\Debug\net6.0\konsolestretch.pdb
+C:\Users\maste\prog-obiektowe\konsolestretch\obj\Debug\net6.0\konsolestretch.dll
+C:\Users\maste\prog-obiektowe\konsolestretch\obj\Debug\net6.0\ref\konsolestretch.dll
+C:\Users\maste\prog-obiektowe\konsolestretch\obj\Debug\net6.0\konsolestretch.pdb
+C:\Users\maste\prog-obiektowe\konsolestretch\obj\Debug\net6.0\konsolestretch.genruntimeconfig.cache
