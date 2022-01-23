@@ -1,0 +1,16 @@
+C:\Users\maste\prog-obiektowe\kolokwium2\obj\Debug\net6.0\kolokwium2.GlobalUsings.g.cs
+C:\Users\maste\prog-obiektowe\kolokwium2\obj\Debug\net6.0\kolokwium2.csproj.AssemblyReference.cache
+C:\Users\maste\prog-obiektowe\kolokwium2\obj\Debug\net6.0\kolokwium2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maste\prog-obiektowe\kolokwium2\obj\Debug\net6.0\kolokwium2.AssemblyInfoInputs.cache
+C:\Users\maste\prog-obiektowe\kolokwium2\obj\Debug\net6.0\kolokwium2.AssemblyInfo.cs
+C:\Users\maste\prog-obiektowe\kolokwium2\obj\Debug\net6.0\kolokwium2.csproj.CoreCompileInputs.cache
+C:\Users\maste\prog-obiektowe\kolokwium2\bin\Debug\net6.0\kolokwium2.exe
+C:\Users\maste\prog-obiektowe\kolokwium2\bin\Debug\net6.0\kolokwium2.deps.json
+C:\Users\maste\prog-obiektowe\kolokwium2\bin\Debug\net6.0\kolokwium2.runtimeconfig.json
+C:\Users\maste\prog-obiektowe\kolokwium2\bin\Debug\net6.0\kolokwium2.dll
+C:\Users\maste\prog-obiektowe\kolokwium2\bin\Debug\net6.0\ref\kolokwium2.dll
+C:\Users\maste\prog-obiektowe\kolokwium2\bin\Debug\net6.0\kolokwium2.pdb
+C:\Users\maste\prog-obiektowe\kolokwium2\obj\Debug\net6.0\kolokwium2.dll
+C:\Users\maste\prog-obiektowe\kolokwium2\obj\Debug\net6.0\ref\kolokwium2.dll
+C:\Users\maste\prog-obiektowe\kolokwium2\obj\Debug\net6.0\kolokwium2.pdb
+C:\Users\maste\prog-obiektowe\kolokwium2\obj\Debug\net6.0\kolokwium2.genruntimeconfig.cache

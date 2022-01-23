@@ -26,24 +26,19 @@ namespace kolokwium2
 
     internal class Polaczenie : Serwis
     {
-        string numer;
+        string numer = "";
 
         int czasP;
 
-
-        public Polaczenie()
-        {
-
-        }
         public void obliczCene()
         {
             this.cena = this.czasP * 0.18;
             
         }
-        public Polaczenie(DateTime start, string numr, int czas)
+        public Polaczenie( DateTime start, string numr, int czasP) : base (start)
         {
             this.numer = numr;
-            this.czasP = czas;
+            this.czasP = czasP;
             this.czas = start;
             obliczCene();
         }
@@ -81,9 +76,9 @@ namespace kolokwium2
 
         void obliczCene()
         {
-            this.cena = Math.Round((iloscMB / 755), 2);
+            this.cena = Math.Round(((double)iloscMB / 755), 2);
         }
-        internal Internet(DateTime czas, int dane)
+        internal Internet(DateTime czas, int dane) : base (czas)
         {
             this.czas = czas;
             this.iloscMB = dane;
