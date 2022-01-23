@@ -6,7 +6,7 @@ using System.Threading;
 using System.Windows;
 
 
-namespace zadaniepierwsze
+namespace kolokwium2
 {
     class Program
     {
